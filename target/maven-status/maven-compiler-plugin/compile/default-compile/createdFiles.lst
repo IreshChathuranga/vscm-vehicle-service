@@ -1,0 +1,16 @@
+com\autocare\vehicle\entity\Vehicle.class
+com\autocare\vehicle\config\HttpConfig.class
+com\autocare\vehicle\service\LocalStorageService.class
+com\autocare\vehicle\exception\ApiExceptionHandler$ErrorResponse.class
+com\autocare\vehicle\VehicleServiceApplication.class
+com\autocare\vehicle\exception\DuplicateResourceException.class
+com\autocare\vehicle\repository\VehicleRepository.class
+com\autocare\vehicle\dto\VehicleRequest.class
+com\autocare\vehicle\service\VehicleService.class
+com\autocare\vehicle\dto\VehicleResponse.class
+com\autocare\vehicle\exception\ResourceNotFoundException.class
+com\autocare\vehicle\dto\MileageRequest.class
+com\autocare\vehicle\service\VehicleServiceImpl.class
+com\autocare\vehicle\controller\VehicleController.class
+com\autocare\vehicle\exception\ApiExceptionHandler.class
+com\autocare\vehicle\service\StorageService.class

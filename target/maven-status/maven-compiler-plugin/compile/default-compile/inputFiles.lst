@@ -1,0 +1,15 @@
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\config\HttpConfig.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\controller\VehicleController.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\dto\MileageRequest.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\dto\VehicleRequest.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\dto\VehicleResponse.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\entity\Vehicle.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\exception\ApiExceptionHandler.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\exception\DuplicateResourceException.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\exception\ResourceNotFoundException.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\repository\VehicleRepository.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\service\LocalStorageService.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\service\StorageService.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\service\VehicleService.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\service\VehicleServiceImpl.java
+D:\vscm-gcp-project\service\vehicle\src\main\java\com\autocare\vehicle\VehicleServiceApplication.java
